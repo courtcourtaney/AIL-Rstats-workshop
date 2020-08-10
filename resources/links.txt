@@ -1,0 +1,20 @@
+Online resources for statistics and using R/RStudio:
+
+Stats theory and calculators/tables for probability measurements and how tests work in-depth:
+https://www.statisticshowto.com/
+
+R specific tutorials, especially nice ggplot2 graphing tutorials:
+http://r-statistics.co/
+
+Lessons in other statistical tests with examples using the rstatix library, written by its creator
+https://www.datanovia.com/en/lessons/
+
+More on why ANOVA is actually kinda just a linear regression
+https://stats.stackexchange.com/questions/175246/why-is-anova-equivalent-to-linear-regression
+
+Reporting stats in APA style journals (or PhD theses?):
+http://my.ilstu.edu/~jhkahn/apastats.html
+
+More on outliers (and good definitions for stats basics):
+https://www.theanalysisfactor.com/outliers-to-drop-or-not-to-drop/
+
